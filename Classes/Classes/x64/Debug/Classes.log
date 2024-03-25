@@ -1,0 +1,16 @@
+﻿  ArrayRectangles.cpp
+G:\prog\cpp\kursowa\lab\Classes\ArrayRectangles.h(41,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ArrayRectangles.cpp')
+  
+G:\prog\cpp\kursowa\lab\Classes\ArrayRectangles.h(59,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'ArrayRectangles.cpp')
+  
+  Classes.cpp
+G:\prog\cpp\kursowa\lab\Classes\ArrayRectangles.h(41,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Classes.cpp')
+  
+G:\prog\cpp\kursowa\lab\Classes\ArrayRectangles.h(59,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Classes.cpp')
+  
+  Generating Code...
+  Classes.vcxproj -> G:\prog\cpp\kursowa\lab\Classes\x64\Debug\Classes.exe
